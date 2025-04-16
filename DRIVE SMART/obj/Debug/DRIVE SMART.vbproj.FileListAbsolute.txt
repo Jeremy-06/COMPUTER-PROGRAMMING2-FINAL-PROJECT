@@ -1,0 +1,23 @@
+C:\Users\admin\source\repos\DRIVE SMART\bin\Debug\DRIVE SMART.exe.config
+C:\Users\admin\source\repos\DRIVE SMART\bin\Debug\DRIVE SMART.exe
+C:\Users\admin\source\repos\DRIVE SMART\bin\Debug\DRIVE SMART.pdb
+C:\Users\admin\source\repos\DRIVE SMART\bin\Debug\DRIVE SMART.xml
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE SMART.vbproj.AssemblyReference.cache
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Form1.resources
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Resources.resources
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE SMART.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE SMART.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE SMART.exe
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE SMART.xml
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE SMART.pdb
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Form2.resources
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Form3.resources
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Form4.resources
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Form5.resources
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Form6.resources
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Form7.resources
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE_SMART.Form8.resources
+C:\Users\admin\source\repos\DRIVE SMART\bin\Debug\DRIVE SMART.exe.manifest
+C:\Users\admin\source\repos\DRIVE SMART\bin\Debug\DRIVE SMART.application
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE SMART.exe.manifest
+C:\Users\admin\source\repos\DRIVE SMART\obj\Debug\DRIVE SMART.application
